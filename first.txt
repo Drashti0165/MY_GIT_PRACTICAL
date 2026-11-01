@@ -1,1 +1,2 @@
 hello first
+This is my Git and GitHub practical.
